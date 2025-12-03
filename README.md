@@ -1,6 +1,6 @@
 ## Hello!
 
-I'm Rainy, a Python developer based in America. I build projects that interest me and solve problems I encounter.
+I'm Rainy, a Python developer based in America. I build projects that interest me and solve challenges I encounter along the way.
 
 **Skills:** Python, HTML, CSS, Git
 
